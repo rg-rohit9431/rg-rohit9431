@@ -1,7 +1,7 @@
 ![logo](https://github.com/rg-rohit9431/rg-rohit9431/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Rohit Kumar Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt= "coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif"
+<img align="right" alt= "coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rg-rohit9431&label=Profile%20views&color=0e75b6&style=flat" alt="rg-rohit9431" /> </p>
 
