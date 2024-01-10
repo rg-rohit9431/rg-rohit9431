@@ -8,8 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-join](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-join)
 
-- 📫 How to reach me **9431rohitkumar@gmail.com** & **https://rg-rohit9431.github.io/portfolio/**
-
+- 📫 How to reach me **9431rohitkumar@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/rohit-gupta-40a631232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit gupta" height="30" width="40" /></a>
