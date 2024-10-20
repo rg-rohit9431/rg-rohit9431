@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rg-rohit9431&label=Profile%20views&color=0e75b6&style=flat" alt="rg-rohit9431" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **django**
 
 - 👨‍💻 All of my projects are available at [https://rgrohit9431.netlify.app/](https://rgrohit9431.netlify.app/)
 
